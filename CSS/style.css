@@ -36,3 +36,11 @@
 .header-menu-item a:hover {
     color: blueviolet;
 }
+
+.page-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    margin-top: 65px;
+}
