@@ -2,6 +2,7 @@
 
 .main-body {
     background-color: rgb(37, 37, 37);
+    
 
 }
 
@@ -79,10 +80,24 @@
 }
 
 .GiphyResults {
-    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
     
-    padding: 1rem 1rem 1rem;
-    border: 2px solid blueviolet;
-    border-radius: 10px;
+    
+
     
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+text-align: center;
+padding: 1rem 1rem 1rem;
