@@ -44,3 +44,10 @@
     height: 150px;
     margin-top: 65px;
 }
+
+.search-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 65px;
+}
