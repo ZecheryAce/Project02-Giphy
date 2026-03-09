@@ -11,7 +11,7 @@
 #   - HTML / JavaScript / CSS
 
 ## Future Improvements:
-#   - Have the functionality to go to source website when clicking on image.
+#   - Have the functionality to go to the source website when clicking on image.
 #   - The ability to copy / share the image.
 #   - Create a user profile to save their favorite Giphy's.
 

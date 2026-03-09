@@ -27,7 +27,7 @@ form.addEventListener("submit", function (e) {
         })
 
         .catch(function (error) {
-            results.innerHTML = "Something went Wrong";
+            results.innerHTML = "Something went Wrong!";
             console.log("Error", error);
         });
 });
