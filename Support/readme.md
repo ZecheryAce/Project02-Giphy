@@ -10,6 +10,11 @@
 ## Technology Utilized:
 #   - HTML / JavaScript / CSS
 
+## Future Improvements:
+#   - Have the functionality to go to source website when clicking on image.
+#   - The ability to copy / share the image.
+#   - Create a user profile to save their favorite Giphy's.
+
 ## User Stories
 #   - As a user, I would like the ability to type into a search bar with a keyword to find a Giphy that I like.
 #   - As a user, I would like those Giphys to be displayed in a list.
