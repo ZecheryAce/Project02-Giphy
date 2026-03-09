@@ -7,6 +7,8 @@
 #   - User may utilize the search bar to search for anything of their choosing to populate a result of 
 #   --Giphy images to view.
 
+## Technology Utilized:
+#   - HTML / JavaScript / CSS
 
 ## User Stories
 #   - As a user, I would like the ability to type into a search bar with a keyword to find a Giphy that I like.
